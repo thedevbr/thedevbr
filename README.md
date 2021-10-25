@@ -1,16 +1,22 @@
-- 👋 Hi, I’m @thedevbr
-- 👀 I’m interested in Javascript HTML CSS Reactjs Nextjs Nodejs MongoDB
-- 🌱 I’m currently learning Javascript HTML CSS Nodejs
-- 📫 How to reach me thedevbr@gmail.com
-
-<div>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg%22%3E">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg%22%3E"> 
-  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg%22%3E"> 
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg%22%3E"> 
-</div>
-
- - function Hello(){
-   <br />console.log('Welcome to my GitHub') <br />
-  }<br />
-  Hello()
+*Oi!  sou o  Lucas Matues.
+Entusiasta e apaixonado por tecnologias.*
+------------------------------------------------------------------------------
+-  :rocket: FullTime aprendizado Swift - iOS
+- :hammer: print("under construction")
+------------------------------------------------------------------------------
+- 🚀 *UX/UI Design*  
+- 🌟 *Linguagens*
+- ⭐ *Tecnologias*  
+- 🗄️ *Banco de dados*
+------------------------------------------------------------------------------
+![alt text](https://img.icons8.com/color/46/000000/swift.png)
+![alt text](https://img.icons8.com/color/1x/javascript.png)
+![alt text](https://img.icons8.com/color/1x/html-5.png)
+![alt text](https://img.icons8.com/color/1x/css3.png)
+![alt text](https://img.icons8.com/color/1x/sass.png)
+![alt text](https://img.icons8.com/office/38/react.png)
+![alt text](https://img.icons8.com/color/1x/figma.png)
+![alt text](https://img.icons8.com/color/1x/mongodb.png)
+![alt text](https://img.icons8.com/color/1x/mysql.png)
+------------------------------------------------------------------------------
+*"Um verdadeiro mestre é um eterno aprendiz"*
