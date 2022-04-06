@@ -8,7 +8,7 @@ Entusiasta e apaixonado por tecnologias.*
 - ⭐ *Tecnologias*  
 - 🗄️ *Banco de dados*
 ------------------------------------------------------------------------------
-![alt text](https://img.icons8.com/office/38/react.png)
+![alt text](https://img.icons8.com/office/40/react.png)
 ![alt text](https://img.icons8.com/color/1x/javascript.png)
 ![alt text](https://img.icons8.com/color/1x/html-5.png)
 ![alt text](https://img.icons8.com/color/1x/css3.png)
