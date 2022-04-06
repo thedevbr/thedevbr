@@ -1,7 +1,6 @@
 *Oi!  sou o  Lucas Matues.
 Entusiasta e apaixonado por tecnologias.*
 ------------------------------------------------------------------------------
--  :rocket: FullTime aprendizado Swift - iOS
 - :hammer: print("under construction")
 ------------------------------------------------------------------------------
 - 🚀 *UX/UI Design*  
@@ -9,12 +8,11 @@ Entusiasta e apaixonado por tecnologias.*
 - ⭐ *Tecnologias*  
 - 🗄️ *Banco de dados*
 ------------------------------------------------------------------------------
-![alt text](https://img.icons8.com/color/46/000000/swift.png)
+![alt text](https://img.icons8.com/office/38/react.png)
 ![alt text](https://img.icons8.com/color/1x/javascript.png)
 ![alt text](https://img.icons8.com/color/1x/html-5.png)
 ![alt text](https://img.icons8.com/color/1x/css3.png)
 ![alt text](https://img.icons8.com/color/1x/sass.png)
-![alt text](https://img.icons8.com/office/38/react.png)
 ![alt text](https://img.icons8.com/color/1x/figma.png)
 ![alt text](https://img.icons8.com/color/1x/mongodb.png)
 ![alt text](https://img.icons8.com/color/1x/mysql.png)
