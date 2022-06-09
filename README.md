@@ -1,4 +1,4 @@
-*Oi!  sou o  Lucas Matues.
+*Oi!  sou o  Lucas Mateus.
 Entusiasta e apaixonado por tecnologias.*
 ------------------------------------------------------------------------------
 - :hammer: print("under construction")
