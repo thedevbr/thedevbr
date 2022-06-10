@@ -19,6 +19,9 @@ Entusiasta e apaixonado por tecnologias.*
 const message = () => { 
     console.log('Knowledge does not take up space 😉');
 };
+"*
+
+*"
 def message():
     print("Seek wisdom first, the rest is consequence 😁")
 "*
