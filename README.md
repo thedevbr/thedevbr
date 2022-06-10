@@ -15,4 +15,10 @@ Entusiasta e apaixonado por tecnologias.*
 ![alt text](https://img.icons8.com/color/1x/mysql.png)
 ![alt text](https://img.icons8.com/color/1x/figma.png)
 ------------------------------------------------------------------------------
-*"Um verdadeiro mestre é um eterno aprendiz"*
+*"
+const message = () => { 
+    console.log('Knowledge does not take up space 😉');
+};
+def message():
+    print("Seek wisdom first, the rest is consequence 😁")
+"*
