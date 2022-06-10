@@ -3,10 +3,9 @@ Entusiasta e apaixonado por tecnologias.*
 ------------------------------------------------------------------------------
 - :hammer: print("under construction")
 ------------------------------------------------------------------------------
-- 🚀 *UX/UI Design*  
-- 🌟 *Linguagens*
-- ⭐ *Tecnologias*  
-- 🗄️ *Banco de dados*
+- ⭐ *Front-end*
+- ⭐ *Back-end*  
+- ⭐ *cybersecurity*
 ------------------------------------------------------------------------------
 ![alt text](https://img.icons8.com/color/1x/javascript.png)
 ![alt text](https://img.icons8.com/color/1x/html-5.png)
