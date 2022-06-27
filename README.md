@@ -4,7 +4,7 @@ Entusiasta e apaixonado por tecnologias.*
 - ⭐ *Software Engenerring student*
 ------------------------------------------------------------------------------
 ![alt text](https://img.icons8.com/color/1x/c.png)
-![alt text](https://img.icons8.com/color/1x/c++.png)
+![alt text](https://img.icons8.com/color/1x/cpp.png)
 ![alt text](https://img.icons8.com/color/1x/python.png)
 ![alt text](https://img.icons8.com/color/1x/figma.png)
 ------------------------------------------------------------------------------
