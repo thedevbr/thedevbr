@@ -6,5 +6,6 @@ Entusiasta e apaixonado por tecnologias.*
     print("Seek wisdom first, the rest is consequence 😁")*
 ------------------------------------------------------------------------------
 ![alt text](https://img.icons8.com/color/1x/python.png)
+![alt text](https://img.icons8.com/color/1x/swift.png)
 ------------------------------------------------------------------------------
 
